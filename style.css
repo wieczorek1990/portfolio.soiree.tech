@@ -1,0 +1,27 @@
+/* Color scheme: http://ethanschoonover.com/solarized */
+
+body {
+    /* background-color: #fdf6e3; */
+    background-color: #a6dbff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+ul {
+    list-style-type: "❖ ";
+}
+
+li {
+    font-size: 1.5em;
+}
+
+.text {
+    font-family: "Source Code Pro", sans-serif;
+}
+
+.title {
+    display: inline-block;
+}
